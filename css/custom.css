@@ -1,0 +1,67 @@
+a.nav-link{
+	color: #007bff;
+}
+
+.header-logo{
+	height: 90px;
+	margin: none;
+}
+header.masthead{
+		background: url(../img/header.jpg);
+		background-size: cover;
+}
+
+/*section.text-center{
+	background-color: E3E3E3!important;
+}
+
+html{
+	font-family: "Helvetica";
+}*/
+
+
+.showcase a:link{
+	text-decoration: none;
+}
+
+a p{
+	color: #6c757d!important;
+}
+
+a h2{
+	color: #007bff;
+	text-align: center;
+	padding: 5px;
+}
+
+a h2:hover{
+	color: pink;
+}
+
+.showcase-img{
+	background-size: cover;
+}
+
+.section-heading{
+	color: #007bff;
+}
+
+.timeline-heading h4.subheading{
+	color: pink;
+}
+
+/*Back to Home button*/
+.button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: white;
+}
+
+#mybtn {
+  position: fixed;
+  bottom: 4px;
+  right: 10px;
+}

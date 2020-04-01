@@ -175,7 +175,7 @@ i{
 
 
 /*Back to Home button*/
-.button {
+.navbar-toggler {
   background-color: #007bff;
   color: white;
   padding: 10px 20px;
